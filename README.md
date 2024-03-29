@@ -17,12 +17,12 @@
 
 -----
 
-## 2. Wgetcloud-高端机场首选
-[**直达官网注册**](https://go.51tz.cc/wget)
+## 2. 苏打云-高端机场首选
+[**直达官网注册**](https://go.51tz.cc/sodacloud)
 
-WgetCloud是一家提供高速稳定的网络加速服务的高端机场，支持多种协议，如SS/SSR、V2Ray和Trojan，适用于Windows、Android、macOS和Linux等多种操作系统。它的特点包括流媒体视频和音乐的解锁能力，如Netflix、Disney、Hulu、HBO等，支持ChatGPT，并且在稳定性方面表现良好。
+SodaCloud是一家提供高速稳定的网络加速服务的高端机场，支持多种协议，如SS/SSR、V2Ray和Trojan，适用于Windows、Android、macOS和Linux等多种操作系统。它的特点包括流媒体视频和音乐的解锁能力，如Netflix、Disney、Hulu、HBO等，支持ChatGPT，并且在稳定性方面表现良好。
 
-WgetCloud机场运营长期提供了一些优惠活动，比如新用户注册可以获得8折充值优惠券，以及满额抽奖活动，用户有机会赢取优惠券或流量包等奖品。
+SodaCloud机场按照流量计费，套餐不限速不限时永久有效。
 
 
 -----
@@ -51,10 +51,10 @@ WgetCloud机场运营长期提供了一些优惠活动，比如新用户注册�
 ![耐思.jpg](https://s2.loli.net/2024/01/08/VmRF9CKAM67hzdE.jpg)
 -----
 
-## 5. 疾风云-稳定好用的机场推荐
-[**直达官网注册**](https://go.51tz.cc/jfcloud)
+## 5. 蓝帆云-稳定好用的机场推荐
+[**直达官网注册**](https://go.51tz.cc/lanfan)
 
-疾风云是老牌机场旗下的分站，新晋稳定机场不存在线路超卖扩容问题，用户少不拥挤，带宽速度体验佳。使用隧道中转优化线路与IPLC国际专线，采用SS/SSR/V2Ray协议，多达115条的优质中转隧道和 IPLC 专线节点分布在美国、法国、日本、韩国、香港、台湾、新加坡、马来西亚等中国用户常用国家与地区。
+蓝帆云是老牌机场旗下的分站，新晋稳定机场不存在线路超卖扩容问题，用户少不拥挤，带宽速度体验佳。使用隧道中转优化线路与IPLC国际专线，采用SS/SSR/V2Ray协议，多达115条的优质中转隧道和 IPLC 专线节点分布在美国、法国、日本、韩国、香港、台湾、新加坡、马来西亚等中国用户常用国家与地区。
 
 所有套餐均支持Netflix、Disney、HBO、TVB、Youtube等国外流媒体解锁，提供ChatGPT支持；
 
